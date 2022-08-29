@@ -23,7 +23,8 @@ PRODUCT_PACKAGES += \
     talkback \
     Velvet \
     SetupWizard \
-    NexusLauncherRelease
+    NexusLauncherRelease \
+    WallpaperPickerGoogleRelease
 endif
 
 $(call inherit-product, vendor/gapps/common/common-vendor.mk)
