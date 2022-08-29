@@ -22,7 +22,8 @@ PRODUCT_PACKAGES += \
     SpeechServicesByGoogle \
     talkback \
     Velvet \
-    SetupWizard
+    SetupWizard \
+    NexusLauncherRelease
 endif
 
 $(call inherit-product, vendor/gapps/common/common-vendor.mk)
