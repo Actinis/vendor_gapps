@@ -91,7 +91,7 @@ android_app_import {
 	name: "NexusLauncherRelease",
 	owner: "gapps",
 	apk: "proprietary/product/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk",
-	overrides: ["Launcher3"],
+	overrides: ["Home", "Launcher2", "Launcher3", "Launcher3QuickStep"],
 	presigned: true,
 	dex_preopt: {
 		enabled: false,
