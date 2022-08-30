@@ -115,7 +115,7 @@ android_app_import {
 android_app_import {
 	name: "WellbeingPrebuilt",
 	owner: "gapps",
-	apk: "proprietary/system_ext/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk",
+	apk: "proprietary/product/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk",
 	presigned: true,
 	dex_preopt: {
 		enabled: false,
