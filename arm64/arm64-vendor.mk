@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
     SetupWizard \
     WallpaperPickerGoogleRelease \
     WellbeingPrebuilt
-    #NexusLauncherRelease \
 endif
 
 $(call inherit-product, vendor/gapps/common/common-vendor.mk)
